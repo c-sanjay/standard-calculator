@@ -261,5 +261,4 @@ body {
 ![](./2.png)
 ![](./3.png)
 ## Result:
-
-ence,
+Hence,the program is successfully executed.
